@@ -1,3 +1,4 @@
+![AstralOS Logo](logo-small.png)
 # AstralOS OTA
 
 Static OTA index for the AstralOS Updater. Device JSON files are served via GitHub Pages:
