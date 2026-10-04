@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1790432873,
+      "datetime": 1790970776,
       "filename": "AstralOS-1.0-OFFICIAL-miatoll.zip",
-      "id": "4056fbff51c00f7dc8e8078103f61594479e0c67",
+      "id": "9aaa445d050dd94157bf438dbcc3cbb9e70f0e4b",
       "romtype": "OFFICIAL",
-      "size": 1353223116,
+      "size": 1350237653,
       "url": "https://github.com/AstralOSProject/ota/releases/download/v1.0/AstralOS-1.0-OFFICIAL-miatoll.zip",
       "version": "1.0"
     }
