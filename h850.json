@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1795178602,
+      "filename": "AstralOS-1.0-OFFICIAL-h850.zip",
+      "id": "bb26e0e8e00d716edfc473e183fedc49c453bff0",
+      "romtype": "OFFICIAL",
+      "size": 1017826163,
+      "url": "https://github.com/AstralOSProject/ota/releases/download/v1.0/AstralOS-1.0-OFFICIAL-h850.zip",
+      "version": "1.0"
+    }
+  ]
+}
